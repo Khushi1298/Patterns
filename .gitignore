@@ -1,6 +1,5 @@
-star.o
-star.esc
-esc :wq
+
 *.o
-*.esc
+*.exe
+
 
