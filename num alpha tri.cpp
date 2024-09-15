@@ -2,12 +2,12 @@
 using namespace std ;
 int main()
 {
-   int i , j , n;
+   int i , j , n ;
    cout << "Enter n : " ;
    cin >> n ;
    for(i=1;i<=n;i++)
    {
-       for (j=1;j<=i;j++)
+       for (j=1;j<=i;j++)d
        {
            char A = 'A'+j-1 ;
            if(i%2==1)
@@ -20,5 +20,3 @@ int main()
         cout << endl  ;
    }
 }
-
-
